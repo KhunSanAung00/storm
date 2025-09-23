@@ -1,4 +1,4 @@
-
+# 2025 Events
 # 21 Sep, 2025 6:00 GMT - Super Typhoon RAGASA
 Super Typhoon RAGASA is currently located near 18.3 N 126.3 E with maximum 1-min sustained winds of 140 kts (161 mph). RAGASA is a category 5 storm.
 [Super Typhoon RAGASA Story Map (2025-09-21)](maps/2025/2025-09-21-super-typhoon-ragasa.md)
