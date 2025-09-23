@@ -19,5 +19,13 @@ Storm Alert issued at 21 Sep, 2025 6:00 GMT
 
 
 # Satellite Image
+## Hamawari Day Image, 16:30 UTC
+![Day View](./se2_b13_1620.jpg)
+
+## Hamawari Night View Image, 16:30 UTC
+![Niht View](./se2_ngt_1620.jpg)
+
+## Heavy Rainfall Potential
+![Rainfall](./r2s_hrp_1630.jpg)
 
 # Radar Image
