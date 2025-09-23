@@ -8,6 +8,7 @@ Storm Alert issued at 21 Sep, 2025 6:00 GMT
 
 
 # 2025-09-23
+Windspeed: 220 kph, category-8. The most powerful typhoon. Evacuation in Philippines, Hongkong.
 ## Storm Track Forecast Zoom-1
 ![Zoom 1](./2025-09-23-zoom1.png)
 
