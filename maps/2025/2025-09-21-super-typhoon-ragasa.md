@@ -30,6 +30,9 @@ Storm Alert issued at 21 Sep, 2025 6:00 GMT
 
 # Radar Image
 
+# Formation: 19 Sep, 2025 18:00 GMT
+Tropical Storm RAGASA is currently located near 16.2 N 130.0 E with maximum 1-min sustained winds of 55kts (63 mph)
+
 # References
 - https://www.tropicalstormrisk.com/
 - https://www.data.jma.go.jp/mscweb/data/himawari/
