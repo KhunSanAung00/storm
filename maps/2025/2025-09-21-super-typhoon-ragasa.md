@@ -29,3 +29,7 @@ Storm Alert issued at 21 Sep, 2025 6:00 GMT
 ![Rainfall](./r2s_hrp_1630.jpg)
 
 # Radar Image
+
+# References
+- https://www.tropicalstormrisk.com/
+- https://www.data.jma.go.jp/mscweb/data/himawari/
