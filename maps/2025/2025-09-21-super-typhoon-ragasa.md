@@ -5,7 +5,9 @@ Storm Alert issued at 21 Sep, 2025 6:00 GMT
 
 
 # 2025-09-24
-
+winds of 115 kts (132 mph). RAGASA is a category 4 storm.
+## Storm Track Forecast Zoom-1
+![Globe](./2025-09-24-globe.png)
 
 # 2025-09-23
 Windspeed: 220 kph, category-8. The most powerful typhoon. Evacuation in Philippines, Hongkong.
