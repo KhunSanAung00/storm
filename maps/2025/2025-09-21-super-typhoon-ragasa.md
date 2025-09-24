@@ -13,8 +13,10 @@ Typhoon RAGASA is currently located near 21.6 N 112.6 E with maximum 1-min susta
 ## Hamawari Day Image, 09:10 UTC
 ![Day View](./se1_b13_0900.jpg)
 
+## Hamawari Day RGB Image, 09:10 UTC  
 ![Day True Color View](./se1_trm_0900.jpg)
 
+## Day Convective Storm RGB, 09:10 UTC  
 ![Day Convective Storm RGB](./se1_cve_0900.jpg)
 
 ## Heavy Rainfall Potential  
