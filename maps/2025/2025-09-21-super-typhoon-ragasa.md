@@ -5,6 +5,21 @@ Storm Alert issued at 21 Sep, 2025 6:00 GMT
 
 
 # 2025-09-24
+
+24 Sep, 2025 6:00 GMT  
+Typhoon RAGASA is currently located near 21.6 N 112.6 E with maximum 1-min sustained winds of 105 kts (121 mph). RAGASA is a category 3 storm   
+
+# Satellite Image
+## Hamawari Day Image, 09:10 UTC
+![Day View](./se1_b13_0900.jpg)
+
+![Day True Color View](./se1_trm_0900.jpg)
+
+![Day Convective Storm RGB](./se1_cve_0900.jpg)
+
+## Heavy Rainfall Potential  
+![Rainfall Potential](./se1_hrp_0900.jpg)
+
 winds of 115 kts (132 mph). RAGASA is a category 4 storm.
 ## Storm Track Globe
 There are 5 active systems as of 24 Sep, 2:14 GMT
