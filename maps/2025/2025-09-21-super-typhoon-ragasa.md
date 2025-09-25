@@ -18,7 +18,7 @@ RAGASA is a category 1 storm   25 Sep, 12:00 UTC 21.8 N	111.1 E	80 kts
 ![Infrared Time Night Image](./se1_irv_1520.jpg)
 
 ### Himawari Infrared Night-Time Microphysics RGB Image: 25 Sep 2025 15:20 UTC  
-![Night Time Microphysics RGB Image](./se1_irv_1520.jpg)
+![Night Time Microphysics RGB Image](./se1_ngt_1520.jpg)
 
 ### Hamawari Heavy Rainfall Potential 25 Sep 2025  15:20 UTC  
 ![Rainfall Potential Image](./se1_hrp_1520.jpg)
