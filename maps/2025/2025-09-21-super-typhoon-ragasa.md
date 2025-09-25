@@ -3,12 +3,28 @@ Storm Alert issued at 21 Sep, 2025 6:00 GMT
 
 # 2025-09-25
 There are 6 active systems as of 25 Sep, 2:24 GMT  
+
 ## Storm Tracks
 ### Storm Tracks Globe View
 ![Storm Tracks Globe View](./2025-09-25-02utc-globe.png)
 
+## Typhoon RAGASA  
+RAGASA is a category 1 storm   25 Sep, 12:00 UTC 21.8 N	111.1 E	80 kts  
+### Storm Track Forecast Zoom-2
+![Storm Track Forecast Zoom 2](./202524W-12utc.png)
+
+## Satellite Image 25 Sep 2025 15:20 UTC
+### Himawari Infrared Night-Time Image: 25 Sep 2025 15:20 UTC  
+![Infrared Time Night Image](./se1_irv_1520.jpg)
+
+### Himawari Infrared Night-Time Microphysics RGB Image: 25 Sep 2025 15:20 UTC  
+![Night Time Microphysics RGB Image](./se1_irv_1520.jpg)
+
+### Hamawari Heavy Rainfall Potential 25 Sep 2025  15:20 UTC  
+![Rainfall Potential Image](./se1_hrp_1520.jpg)
+
 ## Typhoon RAGASA
-RAGASA is a category 3 storm   
+RAGASA is a category 3 storm   25 Sep, 0:00	UTC
 
 ### Storm Track Forecast Zoom-2
 ![Storm Track Forecast Zoom 2](./202524W.png)
