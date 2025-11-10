@@ -1,5 +1,5 @@
 # 2025 Events
-# Typhoon KALMAEGI
+# Typhoon FUNG-WONG
 ## 9 Nov, 2025 6:00 GMT
 Typhoon FUNG-WONG is currently located near 14.9 N 123.2 E with maximum 1-min sustained winds of 115 kts (132 mph). FUNG-WONG is a category 4 storm on the Saffir Simpson Hurricane Wind Scale.
 
@@ -14,21 +14,23 @@ is currently located near 12.2 N 133.8 E with maximum 1-min sustained winds of 7
 Red Alert Country(s) or Province(s)
     the Philippines
 
-# 3 Nov, 2025 18:00 GMT Typhoon KALMAEGI 
+# Typhoon KALMAEGI
+## 3 Nov, 2025 18:00 GMT Typhoon KALMAEGI 
 is currently located near 11.1 N 124.4 E with maximum 1-min sustained winds of 80 kts (92 mph). KALMAEGI is a category 1 storm on the Saffir Simpson Hurricane Wind Scale. KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):
 Red Alert Country(s) or Province(s), 
   the Philippines, probability for CAT 1 or above is 100% currently
         
-# 2 Nov, 2025 6:00 GMT Tropical Storm KALMAEGI 
+## 2 Nov, 2025 6:00 GMT Tropical Storm KALMAEGI 
 is currently located near 11.3 N 133.3 E with maximum 1-min sustained winds of 50kts (58 mph). KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):
 Yellow Alert Country(s) or Province(s)
     the Philippines, probability for CAT 1 or above is 30% in about 36 hours
         
-# 1 Nov, 2025 18:00 GMT Tropical Storm KALMAEG
+## 1 Nov, 2025 18:00 GMT Tropical Storm KALMAEG
 Tropical Storm KALMAEGI is currently located near 10.6 N 136.4 E with maximum 1-min sustained winds of 40kts (46 mph). KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):
   the Philippines, probability for CAT 1 or above is 10% in about 48 hours
 
-# 21 Sep, 2025 6:00 GMT - Super Typhoon RAGASA
+# Super Typhoon RAGASA
+## 21 Sep, 2025 6:00 GMT - Super Typhoon RAGASA
 Super Typhoon RAGASA is currently located near 18.3 N 126.3 E with maximum 1-min sustained winds of 140 kts (161 mph). RAGASA is a category 5 storm.
 [Super Typhoon RAGASA Story Map (2025-09-21)](maps/2025/2025-09-21-super-typhoon-ragasa.md)
 
