@@ -1,4 +1,19 @@
 # 2025 Events
+# Typhoon KALMAEGI
+## 9 Nov, 2025 6:00 GMT
+Typhoon FUNG-WONG is currently located near 14.9 N 123.2 E with maximum 1-min sustained winds of 115 kts (132 mph). FUNG-WONG is a category 4 storm on the Saffir Simpson Hurricane Wind Scale.
+
+## 8 Nov, 2025 18:00 GMT
+Typhoon FUNG-WONG is currently located near 13.7 N 126.6 E with maximum 1-min sustained winds of 110 kts (127 mph). FUNG-WONG is a category 3 storm on the Saffir Simpson Hurricane Wind Scale. 
+
+## 8 Nov, 2025 6:00 GMT
+Typhoon FUNG-WONG is currently located near 13.0 N 130.6 E with maximum 1-min sustained winds of 90 kts (104 mph). FUNG-WONG is a category 2 storm on the Saffir Simpson Hurricane Wind Scale.
+
+# 7 Nov, 2025 18:00 GMT Typhoon FUNG-WONG
+is currently located near 12.2 N 133.8 E with maximum 1-min sustained winds of 70 kts (81 mph). FUNG-WONG is a category 1 storm on the Saffir Simpson Hurricane Wind Scale.
+Red Alert Country(s) or Province(s)
+    the Philippines
+
 # 3 Nov, 2025 18:00 GMT Typhoon KALMAEGI 
 is currently located near 11.1 N 124.4 E with maximum 1-min sustained winds of 80 kts (92 mph). KALMAEGI is a category 1 storm on the Saffir Simpson Hurricane Wind Scale. KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):
 Red Alert Country(s) or Province(s), 
