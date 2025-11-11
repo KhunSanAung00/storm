@@ -1,5 +1,8 @@
 # 2025 Events
 # Typhoon FUNG-WONG
+## 10 Nov, 2025 18:00 GMT
+Typhoon FUNG-WONG is currently located near 18.8 N 118.3 E with maximum 1-min sustained winds of 65 kts (75 mph). FUNG-WONG is a category 1 storm on the Saffir Simpson Hurricane Wind Scale. 
+
 ## 9 Nov, 2025 6:00 GMT
 Typhoon FUNG-WONG is currently located near 14.9 N 123.2 E with maximum 1-min sustained winds of 115 kts (132 mph). FUNG-WONG is a category 4 storm on the Saffir Simpson Hurricane Wind Scale.
 
