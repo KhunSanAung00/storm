@@ -1,0 +1,169 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex b45871f..5f3c304 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,77 +1,10 @@[m
+[31m-# 2025 Events[m
+[31m-# Typhoon FUNG-WONG[m
+[31m-## 10 Nov, 2025 18:00 GMT[m
+[31m-Typhoon FUNG-WONG is currently located near 18.8 N 118.3 E with maximum 1-min sustained winds of 65 kts (75 mph). FUNG-WONG is a category 1 storm on the Saffir Simpson Hurricane Wind Scale. [m
+[32m+[m[32m# Storm Events[m
+ [m
+[31m-## 9 Nov, 2025 6:00 GMT[m
+[31m-Typhoon FUNG-WONG is currently located near 14.9 N 123.2 E with maximum 1-min sustained winds of 115 kts (132 mph). FUNG-WONG is a category 4 storm on the Saffir Simpson Hurricane Wind Scale.[m
+[32m+[m[32m## [2025 Events](maps/2025/README.md)[m
+ [m
+[31m-## 8 Nov, 2025 18:00 GMT[m
+[31m-Typhoon FUNG-WONG is currently located near 13.7 N 126.6 E with maximum 1-min sustained winds of 110 kts (127 mph). FUNG-WONG is a category 3 storm on the Saffir Simpson Hurricane Wind Scale. [m
+ [m
+[31m-## 8 Nov, 2025 6:00 GMT[m
+[31m-Typhoon FUNG-WONG is currently located near 13.0 N 130.6 E with maximum 1-min sustained winds of 90 kts (104 mph). FUNG-WONG is a category 2 storm on the Saffir Simpson Hurricane Wind Scale.[m
+[32m+[m[32m## [2026 Events](maps/2026/README.md)[m
+ [m
+[31m-# 7 Nov, 2025 18:00 GMT Typhoon FUNG-WONG[m
+[31m-is currently located near 12.2 N 133.8 E with maximum 1-min sustained winds of 70 kts (81 mph). FUNG-WONG is a category 1 storm on the Saffir Simpson Hurricane Wind Scale.[m
+[31m-Red Alert Country(s) or Province(s)[m
+[31m-    the Philippines[m
+ [m
+[31m-# Typhoon KALMAEGI[m
+[31m-## 3 Nov, 2025 18:00 GMT Typhoon KALMAEGI [m
+[31m-is currently located near 11.1 N 124.4 E with maximum 1-min sustained winds of 80 kts (92 mph). KALMAEGI is a category 1 storm on the Saffir Simpson Hurricane Wind Scale. KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):[m
+[31m-Red Alert Country(s) or Province(s), [m
+[31m-  the Philippines, probability for CAT 1 or above is 100% currently[m
+[31m-        [m
+[31m-## 2 Nov, 2025 6:00 GMT Tropical Storm KALMAEGI [m
+[31m-is currently located near 11.3 N 133.3 E with maximum 1-min sustained winds of 50kts (58 mph). KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):[m
+[31m-Yellow Alert Country(s) or Province(s)[m
+[31m-    the Philippines, probability for CAT 1 or above is 30% in about 36 hours[m
+[31m-        [m
+[31m-## 1 Nov, 2025 18:00 GMT Tropical Storm KALMAEG[m
+[31m-Tropical Storm KALMAEGI is currently located near 10.6 N 136.4 E with maximum 1-min sustained winds of 40kts (46 mph). KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):[m
+[31m-  the Philippines, probability for CAT 1 or above is 10% in about 48 hours[m
+[32m+[m[32m## References[m
+ [m
+[31m-# Super Typhoon RAGASA[m
+[31m-## 21 Sep, 2025 6:00 GMT - Super Typhoon RAGASA[m
+[31m-Super Typhoon RAGASA is currently located near 18.3 N 126.3 E with maximum 1-min sustained winds of 140 kts (161 mph). RAGASA is a category 5 storm.[m
+[31m-[Super Typhoon RAGASA Story Map (2025-09-21)](maps/2025/2025-09-21-super-typhoon-ragasa.md)[m
+[31m-[m
+[31m-# 18 Sep, 2025 18:00 GMT - Tropical Storm MITAG[m
+[31m-Tropical Storm MITAG is currently located near 21.3 N 116.5 E with maximum 1-min sustained winds of 40kts (46 mph). MITAG[m
+[31m-[m
+[31m-# 16 Sep, 2025 18:00 GMT - Tropical Storm TWENTYTHREE[m
+[31m-Tropical Storm TWENTYTHREE is currently located near 16.1 N 122.2 E with maximum 1-min sustained winds of 45kts (52 mph). TWENTYTHREE[m
+[31m-[m
+[31m-# 7 Sep, 2025 6:00 GMT - Tropical Storm TAPAH[m
+[31m-Tropical Storm TAPAH is currently located near 19.3 N 113.8 E with maximum 1-min sustained winds of 45kts (52 mph). TAPAH[m
+[31m-[m
+[31m-# 6 Sep, 2025 6:00 GMT - Tropical Depression TWENTYTWO[m
+[31m-Tropical Depression TWENTYTWO is currently located near 18.2 N 116.5 E with maximum 1-min sustained winds of 30kts (35 mph). TWENTYTWO[m
+[31m-[m
+[31m-# 5 Sep, 2025 6:00 GMT - Tropical Storm PEIPAH[m
+[31m-Tropical Storm PEIPAH is currently located near 34.9 N 139.3 E with maximum 1-min sustained winds of 45kts (52 mph). PEIPAH[m
+[31m-[m
+[31m-# 25 Aug, 2025 6:00 GMT - Typhoon KAJIKI[m
+[31m-Typhoon KAJIKI is currently located near 18.5 N 106.2 E with maximum 1-min sustained winds of 90 kts (104 mph). KAJIKI is a category 2 storm.[m
+[31m-[m
+[31m-# 22 Aug, 2025 18:00 GMT - Tropical Depression NINETEEN[m
+[31m-Tropical Depression NINETEEN is currently located near 17.1 N 117.0 E with maximum 1-min sustained winds of 30kts (35 mph). NINETEEN[m
+[31m-[m
+[31m-# 8 Aug, 2025 6:00 GMT - Tropical Storm PODUL[m
+[31m-Tropical Storm PODUL is currently located near 20.6 N 145.1 E with maximum 1-min sustained winds of 40kts (46 mph). PODUL [m
+[31m-[m
+[31m-# 1 Aug, 2025 6:00 GMT - Tropical Storm KROSA [m
+[31m-Tropical Storm KROSA is currently located near 33.7 N 141.3 E with maximum 1-min sustained winds of 55kts (63 mph). KROSA[m
+[31m-[m
+[31m-# 23 Jul, 2025 18:00 GMT - Tropical Storm CO-MAY[m
+[31m-Tropical Storm CO-MAY is currently located near 16.9 N 118.0 E with maximum 1-min sustained winds of 60kts (69 mph). CO-MAY[m
+[31m-[m
+[31m-# 4 Jul, 2025 18:00 GMT - Tropical Storm FIVE[m
+[31m-Tropical Storm FIVE is currently located near 20.1 N 117.4 E with maximum 1-min sustained winds of 40kts (46 mph). FIVE[m
+[31m-[m
+[31m-# 13 Jun, 2025 6:00 GMT - Tropical Storm WUTIP[m
+[31m-Tropical Storm WUTIP is currently located near 18.7 N 108.3 E with maximum 1-min sustained winds of 60kts (69 mph). WUTIP[m
+[31m-[m
+[31m-# 10 Jun, 2025 18:00 GMT - Tropical Depression ONE[m
+[31m-Tropical Depression ONE is currently located near 15.2 N 114.3 E with maximum 1-min sustained winds of 30kts (35 mph). ONE[m
+[1mdiff --git a/maps/2025/readme.md b/maps/2025/readme.md[m
+[1mindex cd226bc..d07d0b1 100644[m
+[1m--- a/maps/2025/readme.md[m
+[1m+++ b/maps/2025/readme.md[m
+[36m@@ -1 +1,77 @@[m
+[31m-storms in 2025[m
+[32m+[m[32m# 2025 Events[m
+[32m+[m[32m# Typhoon FUNG-WONG[m
+[32m+[m[32m## 10 Nov, 2025 18:00 GMT[m
+[32m+[m[32mTyphoon FUNG-WONG is currently located near 18.8 N 118.3 E with maximum 1-min sustained winds of 65 kts (75 mph). FUNG-WONG is a category 1 storm on the Saffir Simpson Hurricane Wind Scale.[m[41m [m
+[32m+[m
+[32m+[m[32m## 9 Nov, 2025 6:00 GMT[m
+[32m+[m[32mTyphoon FUNG-WONG is currently located near 14.9 N 123.2 E with maximum 1-min sustained winds of 115 kts (132 mph). FUNG-WONG is a category 4 storm on the Saffir Simpson Hurricane Wind Scale.[m
+[32m+[m
+[32m+[m[32m## 8 Nov, 2025 18:00 GMT[m
+[32m+[m[32mTyphoon FUNG-WONG is currently located near 13.7 N 126.6 E with maximum 1-min sustained winds of 110 kts (127 mph). FUNG-WONG is a category 3 storm on the Saffir Simpson Hurricane Wind Scale.[m[41m [m
+[32m+[m
+[32m+[m[32m## 8 Nov, 2025 6:00 GMT[m
+[32m+[m[32mTyphoon FUNG-WONG is currently located near 13.0 N 130.6 E with maximum 1-min sustained winds of 90 kts (104 mph). FUNG-WONG is a category 2 storm on the Saffir Simpson Hurricane Wind Scale.[m
+[32m+[m
+[32m+[m[32m# 7 Nov, 2025 18:00 GMT Typhoon FUNG-WONG[m
+[32m+[m[32mis currently located near 12.2 N 133.8 E with maximum 1-min sustained winds of 70 kts (81 mph). FUNG-WONG is a category 1 storm on the Saffir Simpson Hurricane Wind Scale.[m
+[32m+[m[32mRed Alert Country(s) or Province(s)[m
+[32m+[m[32m    the Philippines[m
+[32m+[m
+[32m+[m[32m# Typhoon KALMAEGI[m
+[32m+[m[32m## 3 Nov, 2025 18:00 GMT Typhoon KALMAEGI[m[41m [m
+[32m+[m[32mis currently located near 11.1 N 124.4 E with maximum 1-min sustained winds of 80 kts (92 mph). KALMAEGI is a category 1 storm on the Saffir Simpson Hurricane Wind Scale. KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):[m
+[32m+[m[32mRed Alert Country(s) or Province(s),[m[41m [m
+[32m+[m[32m  the Philippines, probability for CAT 1 or above is 100% currently[m
+[32m+[m[41m        [m
+[32m+[m[32m## 2 Nov, 2025 6:00 GMT Tropical Storm KALMAEGI[m[41m [m
+[32m+[m[32mis currently located near 11.3 N 133.3 E with maximum 1-min sustained winds of 50kts (58 mph). KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):[m
+[32m+[m[32mYellow Alert Country(s) or Province(s)[m
+[32m+[m[32m    the Philippines, probability for CAT 1 or above is 30% in about 36 hours[m
+[32m+[m[41m        [m
+[32m+[m[32m## 1 Nov, 2025 18:00 GMT Tropical Storm KALMAEG[m
+[32m+[m[32mTropical Storm KALMAEGI is currently located near 10.6 N 136.4 E with maximum 1-min sustained winds of 40kts (46 mph). KALMAEGI is forecast to affect land to the following likelihood(s) at the given lead time(s):[m
+[32m+[m[32m  the Philippines, probability for CAT 1 or above is 10% in about 48 hours[m
+[32m+[m
+[32m+[m[32m# Super Typhoon RAGASA[m
+[32m+[m[32m## 21 Sep, 2025 6:00 GMT - Super Typhoon RAGASA[m
+[32m+[m[32mSuper Typhoon RAGASA is currently located near 18.3 N 126.3 E with maximum 1-min sustained winds of 140 kts (161 mph). RAGASA is a category 5 storm.[m
+[32m+[m[32m[Super Typhoon RAGASA Story Map (2025-09-21)](2025-09-21-super-typhoon-ragasa.md)[m
+[32m+[m
+[32m+[m[32m# 18 Sep, 2025 18:00 GMT - Tropical Storm MITAG[m
+[32m+[m[32mTropical Storm MITAG is currently located near 21.3 N 116.5 E with maximum 1-min sustained winds of 40kts (46 mph). MITAG[m
+[32m+[m
+[32m+[m[32m# 16 Sep, 2025 18:00 GMT - Tropical Storm TWENTYTHREE[m
+[32m+[m[32mTropical Storm TWENTYTHREE is currently located near 16.1 N 122.2 E with maximum 1-min sustained winds of 45kts (52 mph). TWENTYTHREE[m
+[32m+[m
+[32m+[m[32m# 7 Sep, 2025 6:00 GMT - Tropical Storm TAPAH[m
+[32m+[m[32mTropical Storm TAPAH is currently located near 19.3 N 113.8 E with maximum 1-min sustained winds of 45kts (52 mph). TAPAH[m
+[32m+[m
+[32m+[m[32m# 6 Sep, 2025 6:00 GMT - Tropical Depression TWENTYTWO[m
+[32m+[m[32mTropical Depression TWENTYTWO is currently located near 18.2 N 116.5 E with maximum 1-min sustained winds of 30kts (35 mph). TWENTYTWO[m
+[32m+[m
+[32m+[m[32m# 5 Sep, 2025 6:00 GMT - Tropical Storm PEIPAH[m
+[32m+[m[32mTropical Storm PEIPAH is currently located near 34.9 N 139.3 E with maximum 1-min sustained winds of 45kts (52 mph). PEIPAH[m
+[32m+[m
+[32m+[m[32m# 25 Aug, 2025 6:00 GMT - Typhoon KAJIKI[m
+[32m+[m[32mTyphoon KAJIKI is currently located near 18.5 N 106.2 E with maximum 1-min sustained winds of 90 kts (104 mph). KAJIKI is a category 2 storm.[m
+[32m+[m
+[32m+[m[32m# 22 Aug, 2025 18:00 GMT - Tropical Depression NINETEEN[m
+[32m+[m[32mTropical Depression NINETEEN is currently located near 17.1 N 117.0 E with maximum 1-min sustained winds of 30kts (35 mph). NINETEEN[m
+[32m+[m
+[32m+[m[32m# 8 Aug, 2025 6:00 GMT - Tropical Storm PODUL[m
+[32m+[m[32mTropical Storm PODUL is currently located near 20.6 N 145.1 E with maximum 1-min sustained winds of 40kts (46 mph). PODUL[m[41m [m
+[32m+[m
+[32m+[m[32m# 1 Aug, 2025 6:00 GMT - Tropical Storm KROSA[m[41m [m
+[32m+[m[32mTropical Storm KROSA is currently located near 33.7 N 141.3 E with maximum 1-min sustained winds of 55kts (63 mph). KROSA[m
+[32m+[m
+[32m+[m[32m# 23 Jul, 2025 18:00 GMT - Tropical Storm CO-MAY[m
+[32m+[m[32mTropical Storm CO-MAY is currently located near 16.9 N 118.0 E with maximum 1-min sustained winds of 60kts (69 mph). CO-MAY[m
+[32m+[m
+[32m+[m[32m# 4 Jul, 2025 18:00 GMT - Tropical Storm FIVE[m
+[32m+[m[32mTropical Storm FIVE is currently located near 20.1 N 117.4 E with maximum 1-min sustained winds of 40kts (46 mph). FIVE[m
+[32m+[m
+[32m+[m[32m# 13 Jun, 2025 6:00 GMT - Tropical Storm WUTIP[m
+[32m+[m[32mTropical Storm WUTIP is currently located near 18.7 N 108.3 E with maximum 1-min sustained winds of 60kts (69 mph). WUTIP[m
+[32m+[m
+[32m+[m[32m# 10 Jun, 2025 18:00 GMT - Tropical Depression ONE[m
+[32m+[m[32mTropical Depression ONE is currently located near 15.2 N 114.3 E with maximum 1-min sustained winds of 30kts (35 mph). ONE[m
