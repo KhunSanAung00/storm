@@ -6,6 +6,9 @@
 
 ![2026-11-18-0950-globe.png](2026-11-18-0950-globe.png) ![2026-11-18-0950-I.png](2026-11-18-0950-I.png) ![2026-11-18-0950-P.png](2026-11-18-0950-P.png)
 
+Japanese Himawari imagery (18 Nov, 2026 09:20 UTC):
+![Himawari NW Pacific Infrared](2026-11-18-0920-Himawari-NWP-IR.gif) ![Himawari NW Pacific Water Vapour](2026-11-18-0920-Himawari-NWP-WV.gif)
+
 ### 28 Oct, 2026 4:40 GMT
 
 ![2026-10-28-0440-globe.png](2026-10-28-0440-globe.png) ![2026-10-28-0440-W.png](2026-10-28-0440-W.png) ![2026-10-28-0440-E.png](2026-10-28-0440-E.png) ![2026-10-28-0440-I.png](2026-10-28-0440-I.png)
