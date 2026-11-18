@@ -2,6 +2,10 @@
 
 ## Global Current Active Storms
 
+### 18 Nov, 2026 10:17 GMT
+
+![2026-11-18-1017-globe.png](2026-11-18-1017-globe.png) ![2026-11-18-1017-I.png](2026-11-18-1017-I.png) ![2026-11-18-1017-P.png](2026-11-18-1017-P.png)
+
 ### 18 Nov, 2026 9:50 GMT
 
 ![2026-11-18-0950-globe.png](2026-11-18-0950-globe.png) ![2026-11-18-0950-I.png](2026-11-18-0950-I.png) ![2026-11-18-0950-P.png](2026-11-18-0950-P.png)
@@ -111,6 +115,12 @@ Yellow Alert City(s) and Town(s)
     Vishakhapatnam (17.8 N, 83.3 E)
         probability for TS is 80% currently
 
+## Japanese Himawari RGB Satellite Images
+
+### 18 Nov, 2026 10:10 UTC
+
+Night Microphysics RGB
+![2026-11-18-1010-Himawari-Japan-ngt.jpg](2026-11-18-1010-Himawari-Japan-ngt.jpg)
 
 ## References
 [1] https://www.tropicalstormrisk.com/ 
@@ -120,6 +130,7 @@ Yellow Alert City(s) and Town(s)
 ## Refreshing storm maps
 
 On Windows, run `fetchData.bat` from this folder. It fetches the latest TSR
-tracker maps, names them with the model's UTC timestamp, and adds a dated entry
-to this README. Python 3 is required; the script uses only the standard library.
+tracker maps and the latest Japan-area JMA Himawari RGB image (true color by day,
+night microphysics by night), then adds timestamped entries to this README.
+Python 3 is required; the script uses only the standard library.
 
