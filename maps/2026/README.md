@@ -2,6 +2,10 @@
 
 ## Global Current Active Storms
 
+### 20 Nov, 2026 4:14 GMT
+
+![2026-11-20-0414-globe.png](2026-11-20-0414-globe.png) ![2026-11-20-0414-I.png](2026-11-20-0414-I.png) ![2026-11-20-0414-P.png](2026-11-20-0414-P.png)
+
 ### 18 Nov, 2026 10:17 GMT
 
 ![2026-11-18-1017-globe.png](2026-11-18-1017-globe.png) ![2026-11-18-1017-I.png](2026-11-18-1017-I.png) ![2026-11-18-1017-P.png](2026-11-18-1017-P.png)
@@ -116,6 +120,11 @@ Yellow Alert City(s) and Town(s)
         probability for TS is 80% currently
 
 ## Japanese Himawari RGB Satellite Images
+
+### 20 Nov, 2026 04:00 UTC
+
+True Color Reproduction
+![2026-11-20-0400-Himawari-Japan-trm.jpg](2026-11-20-0400-Himawari-Japan-trm.jpg)
 
 ### 18 Nov, 2026 10:10 UTC
 
